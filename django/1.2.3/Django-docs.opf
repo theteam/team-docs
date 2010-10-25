@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b906d251-bbdf-4849-89f7-d6d2119aa02b</dc:identifier>
+        <dc:title>Django</dc:title>
+        <dc:creator opf:file-as="Foundation, Django Software" opf:role="aut">Django Software Foundation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.24) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-24T23:00:00+00:00</dc:date>
+        <dc:description>Django documentation for version 1.2.3</dc:description>
+        <dc:publisher>Django Software Foundation</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-25T08:39:16.198349+00:00" name="calibre:timestamp"/>
+        <meta content="Django" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Django-docs.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
